@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&amp;display=swap');
+
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../../../../assets/fonts/graphik/GraphikLight.otf) format('woff');
+}
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../../../../../assets/fonts/graphik/GraphikRegular.otf) format('woff');
+}
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(../../../../../assets/fonts/graphik/GraphikMedium.otf) format('woff');
+}
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(../../../../../assets/fonts/graphik/GraphikSemibold.otf) format('woff');
+}
+@font-face {
+  font-family: 'Graphik';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(../../../../../assets/fonts/graphik/GraphikBold.otf) format('woff');
+}
+
+
+:root {
+  --font-family-base: 'Space Grotesk', sans-serif !important;
+}
